@@ -44,7 +44,7 @@ h1 {
 }
 
 h2 {
-    font-family: Ubuntu;
+    font-family: Verdana;
     font-size: 18px;
     font-weight: normal; 
     letter-spacing: 3px;   
@@ -53,7 +53,7 @@ h2 {
 }
 
 h3 {
-    font-family: Ubuntu;
+    font-family: Verdana;
     font-size: 15px;
     font-weight: normal; 
     letter-spacing: 4px;   
@@ -74,7 +74,7 @@ h4 {
 }
 
 p {
-    font-family: Ubuntu;
+    font-family: Verdana;
     font-size: 12.9px;
     font-weight: normal;  
     color: #A974B8;
@@ -99,7 +99,7 @@ div#work {
     
 }
 div#blurb {
-    font-family: Ubuntu;
+    font-family: Verdana;
     font-size: 12.9px;
     font-weight: normal;  
     color: #A974B8;
@@ -115,7 +115,7 @@ div#contact {
 }
 
 form {
-    font-family: Ubuntu;
+    font-family: Verdana;
     text-align:left;
     margin-top: 200px;
     margin-left: 740px;
