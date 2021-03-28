@@ -4,7 +4,7 @@ h1 { font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, 
 
 body#home {
     text-align: center;
-    background-image: url(Photos/1.png);
+    background-image: url(images/1.png);
     background-position: fixed;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -12,7 +12,7 @@ body#home {
 
 body#about {
     text-align: center;
-    background-image: url(Photos/2.png);
+    background-image: url(images/2.png);
     background-position: fixed;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -20,7 +20,7 @@ body#about {
 
 body#contact {
     text-align: center;
-    background-image: url(Photos/4.png);
+    background-image: url(images/4.png);
     background-position: fixed;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -28,7 +28,7 @@ body#contact {
 
 body#work {
     text-align: center;
-    background-image: url(Photos/3.png);
+    background-image: url(images/3.png);
     background-position: fixed;
     background-repeat: no-repeat;
     background-size: 100%;
