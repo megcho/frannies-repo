@@ -1,0 +1,124 @@
+/* Font */
+h1 { font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h2 { font-family: Ubuntu; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Ubuntu; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Ubuntu; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Ubuntu; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+
+
+body#home {
+    text-align: center;
+    background-image: url(photos/1.png);
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+body#about {
+    text-align: center;
+    background-image: url(photos/2.png);
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+body#contact {
+    text-align: center;
+    background-image: url(photos/4.png);
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+body#work {
+    text-align: center;
+    background-image: url(photos/3.png);
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1 {
+    font-size: 75px;
+    font-style: italic;
+    font-weight:lighter;
+    letter-spacing: 1px;
+    color: #A974B8;
+    padding-top: 180px;
+}
+
+h2 {
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: normal; 
+    letter-spacing: 3px;   
+    color: #A974B8;
+    padding-bottom: 30px;
+}
+
+h3 {
+    font-family: Ubuntu;
+    font-size: 15px;
+    font-weight: normal; 
+    letter-spacing: 4px;   
+    color: #A974B8;
+    padding-top: 50px;
+    
+}
+
+h4 {
+    font-size: 50px;
+    font-style: italic;
+    font-weight:lighter;
+    letter-spacing: 2px;
+    color: #A974B8;
+    padding-top: 10px;
+    padding-left: 15px;
+    text-align: left;
+}
+
+p {
+    font-family: Ubuntu;
+    font-size: 12.9px;
+    font-weight: normal;  
+    color: #A974B8;
+    padding-top: 5px;
+    text-align: left;
+    margin-right: 300px;    
+}
+div.links {
+    word-spacing: 100px;
+}
+
+div#work {
+    font-size: 50px;
+    font-style: italic;
+    font-weight:lighter;
+    letter-spacing: 2px;
+    color: #A974B8;
+    width: 410px;
+    float: left;
+    margin-left: 350px;
+    text-align: right;
+    
+}
+div#blurb {
+    font-family: Ubuntu;
+    font-size: 12.9px;
+    font-weight: normal;  
+    color: #A974B8;
+    padding-top: 5px;
+    text-align: left;
+    margin-left: 700px;    
+    margin-top: 60px;
+}
+
+div#contact {
+    float: right;
+    margin-right: 400px;
+}
+
+form {
+    font-family: Ubuntu;
+    text-align:left;
+    margin-top: 200px;
+    margin-left: 740px;
+    color: #A974B8;
+}
+

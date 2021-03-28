@@ -6,7 +6,7 @@
     <title>Megan Liston</title>
   </head>
   <body>
-    <body id="home">
+    <body id="contact">
       <script src="script.js"></script>
       <div class="links">
         <h3>
@@ -16,7 +16,15 @@
           <a href="contact.html">CONTACT</a>
         </h3>
       </div>
-      <h1>MEGAN LISTON</h1>
-      <h2>SOFTWARE ENGINEERING STUDENT</h2>
+      <div id="contact"><h4>LET'S CHAT</h4></div>
+      <form onsubmit="return false">
+        <input type="text" placeholder="First Name" id="firstName" /><br><br>
+        <input type="text" placeholder="Last Name" id="lastName" /><br><br>
+        <input type="email" placeholder="Email" id="email" /><br><br>
+        <textarea id="question" rows="4" placeholder="Dear Megan..."></textarea>
+        <br><br>
+        <button onclick="sendContact();">Submit!</button>    
+    </form>
+
   </body>
 </html>
